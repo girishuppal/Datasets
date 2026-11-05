@@ -1,2 +1,4 @@
 # Read Me
 This file will contain datasets from various sources that will help you build solutions in Power BI and other tech
+
+Some samples are sourced from Microsoft GitHub repos
