@@ -21,10 +21,13 @@ https://fakerapi.it/api/v2/users?_quantity=1&_gender=male <br/>
 https://fakerapi.it/api/v2/custom?_quantity=1&customfield1=name&customfield2=dateTime&customfield3=phone <br/>
 
 
+### Odata
 
-
-
-
+`https://services.odata.org/TripPinRESTierService` <br/>
+https://services.odata.org/TripPinRESTierService/People?$select=UserName,FirstName,LastName,MiddleName,Age <br/>
+https://services.odata.org/TripPinRESTierService/Airlines <br/>
+https://services.odata.org/TripPinRESTierService/Airports <br/>
+https://services.odata.org/TripPinRESTierService/Me <br/>
 
 ### DUMMY REST API
 `https://dummy.restapiexample.com/`
